@@ -1,0 +1,6 @@
+root::0:root,adm
+other::1:daemon
+bin::2:root,bin,daemon
+adm::3:root,adm,daemon,warren
+daemon::4:root,daemon
+staff::1000:warren

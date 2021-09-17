@@ -1,0 +1,6 @@
+tags
+.vscode
+**/*.o
+**/*.bin
+**/*.com
+**/*.txt

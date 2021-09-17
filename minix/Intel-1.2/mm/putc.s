@@ -1,0 +1,59 @@
+…_putc
+Ж
+_putc:
+Г
+В
+З
+ al,≈
+А
+јб_print_buf
+А
+Ѕ_buf_count
+№_buf_count
+Й
+Н
+ƒел
+Н
+Ї
+Ќ_buf_count,#100
+ўI0013
+”_F_l_u_s_h
+Х
+cmpb ≈,#10
+ўI0016
+”_F_l_u_s_h
+љ
+Е
+Д
+Б
+_F_l_u_s_h:
+Г
+В
+Ќ_buf_countц
+ўI0023
+Е
+Д
+Б
+I0023:
+ј_putch_msg+2,#4
+ј_putch_msg+6ц
+ј_putch_msg+4ц
+ј_putch_msg+18,#_print_buf
+је_buf_count
+ј_putch_msg+8,м
+јб_putch_msg
+А
+јб-7
+А
+”_sendrec
+К
+К
+ј_buf_countц
+Е
+Д
+Б
+≥
+_putch_msg: .zerow 24/2
+_print_buf: .zerow 100/2
+_buf_count: .zerow 2/2
+Ж
