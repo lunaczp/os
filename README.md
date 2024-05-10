@@ -6,7 +6,7 @@
 - [linux](linux)
 - [orangeOs](orangeOs)
 
-# Auto Generated Content
+# Auto Generated Index
 - [os](/)
   - [linux](/linux)
     - [linux-0.11](/linux/linux-0.11)
