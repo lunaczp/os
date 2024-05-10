@@ -1,6 +1,4 @@
-- [Timer](#Timer)
-- [Timer History](#Timer_History)
-
+# Timer
 
 # Timer
 关于Linux的时间与定时器
